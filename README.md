@@ -22,7 +22,7 @@ Persistent Logging: Saves statistics and the list of unique users to files.
 
 The easiest way to start transcribing is to open the bot directly on Telegram:
 
-## 🔗 Start the Bot on Telegram (Placeholder: Replace VocalyTranscriberBot with your actual bot username.)
+## [**Start the Bot on Telegram**](https://t.me/VocalyBot)
 
 Send the /start command.
 
