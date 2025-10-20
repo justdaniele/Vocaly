@@ -2,7 +2,7 @@
 
 A Telegram bot for the automatic transcription of voice messages and audio files, powered by whisper.cpp. Vocaly is optimized for running on compact hardware like a Raspberry Pi.
 
-✨ Key Features
+## ✨ Key Features
 
 Fast Transcription: Utilizes the high-performance C++ implementation of Whisper (whisper.cpp) for quick transcription.
 
@@ -18,11 +18,11 @@ Automatic notification to the Administrator when a new user starts the bot.
 
 Persistent Logging: Saves statistics and the list of unique users to files.
 
-🚀 How to Use Vocaly
+## 🚀 How to Use Vocaly
 
 The easiest way to start transcribing is to open the bot directly on Telegram:
 
-🔗 Start the Bot on Telegram (Placeholder: Replace VocalyTranscriberBot with your actual bot username.)
+## 🔗 Start the Bot on Telegram (Placeholder: Replace VocalyTranscriberBot with your actual bot username.)
 
 Send the /start command.
 
@@ -30,7 +30,7 @@ Send any voice message or audio file (max $5$ minutes long).
 
 Receive the automatic transcription instantly!
 
-🛠️ Prerequisites
+## 🛠️ Prerequisites
 
 To run Vocaly, you will need:
 
